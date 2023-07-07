@@ -1,3 +1,6 @@
+<img width="960" alt="Screenshot 2023-07-07 203316" src="https://github.com/AmanKumar1115/Promptopia/assets/121182042/48ced828-5123-4d19-b8a4-fe03b0bbb96e">
+![Uploading Screenshot 2023-07-07 203210.png…]()
+![Uploading Screenshot 2023-07-07 203131.png…]()
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
